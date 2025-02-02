@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently a student in Valencia (Spain) 🏖
+Currently a student in **Valencia** (Spain) 🏖
